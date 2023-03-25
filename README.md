@@ -156,3 +156,4 @@ If you'd like to run your own instance of Better ChatGPT, you can easily do so b
 <h3 align="center">
 A ⭐️ to <b>Better ChatGPT</b> is to make it shine brighter and benefit more people.
 </h3>
+# shinegpt
